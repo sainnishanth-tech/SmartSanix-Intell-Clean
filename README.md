@@ -38,7 +38,7 @@ Based on our final procurement from **Robocraze**, the total hardware footprint 
 | **VL53L0X Laser Sensor** | Precise ToF Stall Occupancy | ₹131.00 |
 | **MQ-135 Gas Module** | NH3 & Odor Monitoring | ₹111.00 |
 | **Water Level Sensor** | Cleaning/Maintenance Verification | ₹21.00 |
-| **Active Buzzer Module** | Emergency SOS Audio Output | ₹31.00 |
+| **Buzzer Module** | Emergency SOS Audio Output | ₹31.00 |
 | **Tactile Push Buttons (10pk)**| SOS & Manual Reset Interface | ₹55.00 |
 | **ESP32-WROOM-32** | Dual-Core IoT Processor & WiFi | *Prev. Board* |
 
@@ -62,7 +62,13 @@ Based on our final procurement from **Robocraze**, the total hardware footprint 
 
 ### System Circuit Diagram
 > [!IMPORTANT]
-> ![Circuit Diagram](./assets/Gemini_Generated_Image_d48r2pd48r2pd48r.png)
+> ![Circuit Diagram]<p align="center">
+  <a href="INSERT_URL_FROM_OPTION_1_HERE">
+    <img src="INSERT_URL_FROM_OPTION_1_HERE" alt="SmartSan+ Circuit Diagram" width="900">
+  </a>
+  <br>
+  <b>Figure 1:</b> <i>Stabilized Dual-Node Architecture – Hardware Schematic for SmartSan+</i>
+</p>
 )
 *Illustration of the ESP32 interfacing with the I2C VL53L0X and Analog MQ-135.*
 
