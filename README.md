@@ -61,7 +61,7 @@ Final procurement list optimized for high sensitivity and cost-effectiveness:
 | **VL53L0X Laser Sensor** | 1 | Millimeter-accurate Stall Occupancy | Robocraze |
 | **MQ-135 Gas Module** | 1 | Ammonia ($NH_3$) & Odor Analytics | Robocraze |
 | **Water Level Sensor** | 1 | Cleaning/Hydraulic Verification | Robocraze |
-| **Active Buzzer (3.3V-5V)** | 1 | Emergency SOS Audio Output | Robocraze |
+| **Passive/Active Buzzer (3.3V-5V)** | 1 | Emergency SOS Audio Output | Robocraze |
 | **Tactile Buttons (10pk)** | 1 | SOS & Maintenance Reset | Robocraze |
 | **ESP32-WROOM-32** | 1 | Core Logic & WiFi Dashboard | - |
 
