@@ -62,7 +62,7 @@ Based on our final procurement from **Robocraze**, the total hardware footprint 
 
 ### System Circuit Diagram
 > [!IMPORTANT]
-> ![Circuit Diagram](INSERT_LINK_TO_DIAGRAM_HERE)
+> ![Circuit Diagram](C:\Users\Admin\Downloads\Gemini_Generated_Image_d48r2pd48r2pd48r.png)
 *Illustration of the ESP32 interfacing with the I2C VL53L0X and Analog MQ-135.*
 
 ### Industrial Dashboard
